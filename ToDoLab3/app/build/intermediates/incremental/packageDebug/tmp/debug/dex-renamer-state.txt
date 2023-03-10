@@ -1,0 +1,4 @@
+#Thu Jan 26 18:42:35 YEKT 2023
+base.0=C\:\\Mobile-main\\ToDoLab3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
